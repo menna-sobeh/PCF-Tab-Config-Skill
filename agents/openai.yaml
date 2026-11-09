@@ -1,0 +1,4 @@
+interface:
+  display_name: "PCF Tab Config"
+  short_description: "Build PCF tab JSON from developer details and FetchXML"
+  default_prompt: "Help me build a PCF tab configuration. Ask me for each tab's labels, order, layout, target table, and FetchXML."
